@@ -1,7 +1,7 @@
 {
   "tiles": [
     {
-      "id": "tile_001",
+      "id": "1",
       "title": "Zellige Ocean Blue",
       "description": "Authentic hand-cut Zellige tiles from Fez, Morocco. Each tile is individually crafted by master artisans, creating a unique rippled surface that catches light beautifully.",
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85",
@@ -17,7 +17,7 @@
       "creator": "Fez Artisan Collective"
     },
     {
-      "id": "tile_002",
+      "id": "2",
       "title": "Carrara White Marble",
       "description": "Quarried from the legendary Carrara mountains of Tuscany. The soft white ground with delicate grey veining makes it a timeless choice for luxury interiors.",
       "image": "https://images.unsplash.com/photo-1615529151169-7b1d8a6b2434?w=800&q=85",
@@ -33,7 +33,7 @@
       "creator": "Tuscany Stone Co."
     },
     {
-      "id": "tile_003",
+      "id": "3",
       "title": "Rustic Terracotta Heritage",
       "description": "Sun-dried and kiln-fired using ancient Andalusian methods. This terracotta brings warmth and earthy authenticity to any floor.",
       "image": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&q=85",
@@ -49,7 +49,7 @@
       "creator": "Casa del Barro"
     },
     {
-      "id": "tile_004",
+      "id": "4",
       "title": "Forest Slate Mosaic",
       "description": "Sourced from the slate-rich highlands of Rajasthan. The deep green undertones evoke a sense of forest floor serenity.",
       "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=85",
@@ -65,7 +65,7 @@
       "creator": "Rajasthan Stone Works"
     },
     {
-      "id": "tile_005",
+      "id": "5",
       "title": "Geometric Ceramic Clay",
       "description": "Precision-moulded geometric patterns pressed from fine white clay and fired at 1200°C. The matte glaze works beautifully as a feature wall.",
       "image": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?w=800&q=85",
@@ -81,7 +81,7 @@
       "creator": "Estudio Valencia"
     },
     {
-      "id": "tile_006",
+      "id": "6",
       "title": "Industrial Cement Grey",
       "description": "Poured and pressed using Portland cement blend. The uniform grey surface offers raw industrial elegance.",
       "image": "https://images.unsplash.com/photo-1604014237800-1c9102c219da?w=800&q=85",
@@ -97,7 +97,7 @@
       "creator": "Studio Beton"
     },
     {
-      "id": "tile_007",
+      "id": "7",
       "title": "Sage Green Encaustic",
       "description": "Traditional encaustic tiles hand-poured with pigmented cement layers. The sage green palette creates a calming atmosphere.",
       "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85",
@@ -113,7 +113,7 @@
       "creator": "Maison Carreaux"
     },
     {
-      "id": "tile_008",
+      "id": "8",
       "title": "Midnight Black Porcelain",
       "description": "Ultra-dense porcelain achieving a deep obsidian-like surface. Near-zero porosity makes it ideal for high-traffic and wet areas.",
       "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=85",
